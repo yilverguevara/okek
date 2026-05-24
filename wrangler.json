@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "okek",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "00f32e76-242b-4eae-b99a-a9cfa54f8324",
+			"database_name": "dbomek"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
